@@ -49,5 +49,6 @@ int main(void)
 			_delay_ms(300);
 			PORTA = led[i];
 		}
+		//test
 	}
 }
